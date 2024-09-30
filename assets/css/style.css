@@ -18,9 +18,19 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    position: relative;
       
 }
 
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
 .quotes-container {
 
 }
@@ -38,6 +48,36 @@ body {
     background-color: #25527f;
     opacity: .65;
 }
+
+/* Navbar */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
 /* Jumbotron */
 
 .jumbotron {
@@ -48,7 +88,7 @@ body {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
-    margin: 20 px 0;
+    
 }
 
 .jumbotron .lead {

@@ -2,6 +2,14 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.container-wrapper {
+
+}
+
+.container-wrapper--f {
+    background-color: #25527f;
+    color: white;
+}
 .alert-container {
 
 }
@@ -39,6 +47,18 @@ body {
 
 }
 
+/*Page headers */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
 
 /* Block dividers */
 
@@ -49,6 +69,12 @@ body {
     opacity: .65;
 }
 
+/* Content containers */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
 /* Navbar */
 
 .navalert-container {

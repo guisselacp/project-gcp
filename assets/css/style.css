@@ -47,6 +47,22 @@ body {
 
     position: absolute;
 }
+
+.callout2-container {
+    height: 93vh;
+   
+    background: url("../images/resources.jpg") no-repeat left center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+}
 .opaque-overlay {
     position: absolute;
     top: 0;

@@ -31,6 +31,21 @@ body {
       
 }
 
+.callout1-container {
+    height: 93vh;
+   
+    background: url("../images/benefits.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: overflow;
+
+    position: absolute;
+}
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -91,6 +106,7 @@ body {
     border: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.08);
+    color:rgba(0, 0, 0, 0.5)
 }
 
 .navbar .navbar-toggler {
@@ -98,7 +114,8 @@ body {
 }
 
 .navbar-brand {
-    font-weight: bold;
+    font-weight: normal;
+    color: #25527f;
 }
 
 .navbar .navbar-nav a {
@@ -115,6 +132,12 @@ body {
     font-weight: bold;
     margin-bottom: 30px;
     
+}
+
+.jumbotron-header1 {
+    color: #25527f;
+    font-weight:;
+    margin-bottom: 15;
 }
 
 .jumbotron .lead {

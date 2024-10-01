@@ -17,3 +17,71 @@
     <title>Example</title>
 </head>
 <body>
+    <header>
+        <div class="container-fluid navalert-container">
+            <nav class="navbar navbar-dark navbar-expand-sm">
+                <a href="/" class="navbar-brand">Equity</a>
+            
+                <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span></button>
+    
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="active nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item mr-2"><a class="nav-link" href="benefits.html">Benefits</a></li>
+                        
+                        <!--li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Benefits</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="#">A</a>
+                                <a class="dropdown-item" href="#">B</a>
+                                <a class="dropdown-item" href="#">C</a>
+                                <a class="dropdown-item" href="#">D</a>
+                            </div>
+                        </li-->
+                        <li class="nav-item mr-2"><a class="nav-link" href="resources.html">Resources</a></li>
+                        <!-- This will only be displayed on a mobile device -->
+                        <button type="button" class="btn btn-success">Contact Us</button>
+                        
+                    </ul>
+                </div>
+                <!-- This is only displayed on medium-sized screen resolution -->
+                <div class="d-none d-md-block">
+                    <p class="navbar-text my-auto mr-2"><i>Do you need more information?</i></p>
+                    <!--a href="/contact">Contact Us</a>-->
+                    <a href="contact.html" class="btn btn-lg btn--green"> Contact Us</button>
+                    <section id="signup">
+                        <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                        <h2><i class="fa-solid fa-heartbeat"></i> Let's get you signed up!</h2>
+                        <label for="first-name">First Name</label>
+                        <input type="text" name="first_name" id="first-name" class="text-input" required>
+                        <br>
+                        <label for="last-name">Last Name</label>
+                        <input type="text" name="last_name" id="last-name" class="text-input" required>
+                        <br>
+                        <label for="email-address">Email Address</label>
+                        <input type="email" name="email_address" id="email-address" class="text-input" required>
+                        <br>
+                        <div class="radio-buttons">
+                            <div>
+                                <label for="road">Road</label>
+                                <input type="radio" name="running_preference" id="road" value="road" required checked>                </div>
+                            <div>
+                                <label for="trail">Trail</label>
+                                <input type="radio" name="running_preference" id="trail" value="trail" required checked>                </div>
+                            <div>
+                                <label for="both">Both</label>
+                                <input type="radio" name="running_preference" id="both" value="both" required checked>                </div>
+                        </div>
+                        <button type="submit" class="join-button">Get in touch!</button>
+                        </form>
+                    </section>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        
+    </main>
+</body>

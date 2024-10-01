@@ -63,6 +63,21 @@ body {
 
     position: absolute;
 }
+.callout3-container {
+    height: 93vh;
+   
+    background: url("../images/pexels-tiger-lily-7108697.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+}
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -81,20 +96,20 @@ body {
 
 /* Form */
 #signup {
-    background-image: url("../images/signup-image.webp");
+    background-image: url("../images/pexels-tiger-lily-7108697.jpg");
     background-size: cover;
-    background-position: 75%;
+    background-position: 100%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
 #signup-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
+    padding: 35px;
 }
 #signup-form>h2 {
     color: #fafafa;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .text-input {
     background: transparent;
@@ -208,5 +223,5 @@ body {
     
 }
 
-/* Buttons */
+
 

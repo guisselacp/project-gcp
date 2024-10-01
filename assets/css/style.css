@@ -2,6 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+
 .container-wrapper {
 
 }
@@ -42,7 +43,7 @@ body {
 
     display: flex;
     align-items: center;
-    justify-content: overflow;
+    justify-content: center;
 
     position: absolute;
 }

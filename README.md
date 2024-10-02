@@ -91,7 +91,17 @@ Welcome!
 ![alt Deployment](docs/documentation/deployment.png)
 ## Testing
 
+## Credits
+### Content References
+###### * [Code Institute](https://codeinstitute.net/) for their HTML/CSS learning material and 'content zoom' module in Bootstrap.
 
+###### * [W3School](https://www.w3schools.com/) for additional learning material.
 
+###### * [Chat GPT](https://chatgpt.com/) code for the "Read More" button.
+###### * [Legislation](https://www.gov.uk/government/organisations/government-legal-department/about/equality-and-diversity) for knowledge  of the topic
+###### * [Promoting D & I](https://uk.indeed.com/hire/c/info/diversity-and-inclusion) for add information my site.
 
-
+### Media References
+###### * [Pexels](https://www.pexels.com/) for all images used on this site.
+###### * [Font Awesome](https://fontawesome.com/) for the icons used in the footer of this site.
+###### * [Favicon](https://favicon.io/) for the favicon used for this site.

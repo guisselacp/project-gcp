@@ -32,6 +32,37 @@ Welcome!
 ###### * Each page has a large image but in an opaque style so the text can be seen.
 ## Wireframes
 ### Wireframes - Homepage Desktop & Mobile
+![alt Home-Page](docs/documentation/Home-Page-Wireframe.png)
+5. Surface
+###### * Images are used to background.
+###### * A pallete of colours was selected.
+###### * The font selected was roboco-font to provide legible text.
+## Design
+### Color Scheme
+###### The colours chosen are sober because the topic to be shown is essential.
+![alt Color-Scheme](docs/documentation/color-scheme.png)
+### Typography
+[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Roboco Sans-serif'. It is clear for the website.
+
+![alt Font](docs/documentation/font.png)
+### Imagery
+##### The images that I have chosen for my site were downloaded from the following page: 
+[pexel.com](https://www.pexels.com/)
+## Page Features
+### Navbar
+![alt Nav-Bar](docs/documentation/navbar.png)
+###### There are three pages and a button to Contact-Us.
+### Hero Image
+![alt Hero-Image](docs/documentation/hero-image.png)
+###### The hero image shows a group of people in a work environment, which shows diversity.
+### Call to Action
+![alt Call-to-action](docs/documentation/call-to-action.png)
+###### The image has its opacity set to allow the hero image to still show through.
+### Tablet & Mobile View
+## Future Features
+
+
+
 
 
 

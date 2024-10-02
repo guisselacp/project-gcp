@@ -59,8 +59,37 @@ Welcome!
 ![alt Call-to-action](docs/documentation/call-to-action.png)
 ###### The image has its opacity set to allow the hero image to still show through.
 ### Tablet & Mobile View
-## Future Features
+![alt View1-Mini](docs/documentation/mini1.png)
 
+![alt View2-Mini](docs/documentation/mini2.png)
+
+![alt View3-Mini](docs/documentation/mini3.png)
+## Future Features
+##### For future development, I would like to include videos on the topic and be able to get feedback from users regarding what additional information they require.
+## Technologies Used
+### Languages Used
+###### * HTML5
+###### * CSS3
+### Frameworks, Libraries, Technologies & Program Used
+###### * GitHub - used to save and store all files for this website
+###### * Git - used for version control
+###### * Google Fonts - fonts were imported from here
+###### * Font Awesome - icons and their associated kit were downloaded from here
+###### * Favicon.io - for ice cream favicon
+###### * W3C Validator - for validating the HTML and CSS code
+## Deployment
+### How to deploy
+###### GitHub was used to deploy the website. These were the steps taken to achieve this:
+
+###### 1 Login to GitHub account
+###### 2 Navigate to the project repository, project-gcp
+###### 3 Click the Settings button near the top of the page
+###### 4 In the left-hand menu, find and click on the Pages button
+###### 5 In the Source section, choose 'main' from the drop-down, select branch menu
+###### 6 Select 'root' from the drop-down folder menu
+###### 7 Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
+![alt Deployment](docs/documentation/deployment.png)
+## Testing
 
 
 

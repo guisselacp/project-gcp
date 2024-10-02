@@ -90,7 +90,7 @@ Welcome!
 ###### 7 Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 ![alt Deployment](docs/documentation/deployment.png)
 ## Testing
-
+![Testing](docs/documentation/testing.png)
 ## Credits
 ### Content References
 ###### * [Code Institute](https://codeinstitute.net/) for their HTML/CSS learning material and 'content zoom' module in Bootstrap.
